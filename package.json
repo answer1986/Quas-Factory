@@ -1,0 +1,23 @@
+{
+  "name": "quas-factory",
+  "version": "1.0.0",
+  "description": "Software - electron - para manejo de lineas de produccion",
+  "main": "index.js",
+  "scripts": {
+    "dev": "electron",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/answer1986/Quas-Factory.git"
+  },
+  "author": "Alvaro Riquelme V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/answer1986/Quas-Factory/issues"
+  },
+  "homepage": "https://github.com/answer1986/Quas-Factory#readme",
+  "dependencies": {
+    "electron": "^19.0.6"
+  }
+}
